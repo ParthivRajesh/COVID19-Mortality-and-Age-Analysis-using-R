@@ -42,7 +42,7 @@ p-value < 2.2e-16
 99% Confidence Interval: -25.52 to -15.51
 
 
-**Observation:**  
+## Observation
 - The p-value is far below 0.05.  
 - Null hypothesis is rejected.  
 - There is a statistically significant age difference between survivors and non-survivors.  
